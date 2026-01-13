@@ -1,6 +1,6 @@
-# Uber Project
+# RouteX
 
-This repository contains the implementation of an Uber-like application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The project simulates the key features of a ride-hailing platform, including user and driver registration, ride booking, real-time tracking, and payment processing.
+This repository contains the implementation of RouteX, a ride-hailing application built using the MERN (MongoDB, Express.js, React, Node.js) stack. The project simulates key features of a transportation platform, including user and driver registration, ride booking, real-time tracking, and payment processing.
 
 ---
 
@@ -33,6 +33,7 @@ This repository contains the implementation of an Uber-like application built us
 - **React.js**: For building the user interface.
 - **CSS**: For styling the components.
 - **GoMaps API**: For location and map functionalities.
+- **Framer Motion**: For smooth animations and enhanced UI transitions.
 
 ### Backend:
 - **Node.js**: For server-side logic.
@@ -192,21 +193,6 @@ uber-project/
 
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
----
-
-## Contributing
-
-Contributions are welcome! To contribute:
-
-1. Fork the repository.
-2. Create a new branch.
-3. Make your changes.
-4. Submit a pull request.
 
 
 
