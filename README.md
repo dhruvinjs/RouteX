@@ -77,7 +77,7 @@ This repository contains the implementation of RouteX, a ride-hailing applicatio
 ![alt text](./Frontend/Snippets/image-7.png)
 
 ### User Map
-![alt text](image-8.png)
+![alt text](./Frontend/Snippets/image-8.png)
 
 ### User Payment With rating
 ![alt text](./Frontend/Snippets/payment.png)
